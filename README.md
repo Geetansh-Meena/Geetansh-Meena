@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Geetansh 👋
 
-I build data pipelines and dashboards that make data trustworthy.
+I build data pipelines and dashboards that make workforce data trustworthy.
 
 ## What I work with
 Microsoft Fabric · PySpark · Power BI · SQL · Python · API integrations
