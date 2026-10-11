@@ -22,3 +22,5 @@ Microsoft Fabric · PySpark · Power BI · SQL · Python · API integrations
 
 ## Based in
 Bengaluru, India
+
+Currently learning Git and building in public.
