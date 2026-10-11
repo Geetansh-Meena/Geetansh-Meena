@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Geetansh-Meena/Geetansh-Meena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Geetansh 👋
+
+I build data pipelines and dashboards that make data trustworthy.
+
+## What I work with
+Microsoft Fabric · PySpark · Power BI · SQL · Python · API integrations
+
+## Based in
+Bengaluru, India
